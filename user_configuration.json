@@ -6,7 +6,8 @@
     "bootloader": "Systemd-boot",
     "custom_commands": [
         "systemctl enable sddm.service",
-        "systemctl enable NetworkManager.service"
+        "systemctl enable NetworkManager.service",
+        "systemctl enable sshd.service"
     ],
     "hostname": "pipewire-arch",
     "kernels": [
