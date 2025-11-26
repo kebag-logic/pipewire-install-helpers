@@ -39,6 +39,7 @@
        " meson",
        " networkmanager",
        " numactl",
+       " openbsd-netcat",
        " openssh",
        " openvpn",
        " plasma-desktop",
