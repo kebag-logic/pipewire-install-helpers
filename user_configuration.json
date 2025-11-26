@@ -31,7 +31,6 @@
        " git",
        " glib2-devel",
        " gnome-console",
-       " gnu-netcat",
        " htop",
        " less",
        " linux-firmware",
