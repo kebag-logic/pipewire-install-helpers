@@ -44,6 +44,7 @@
        " openvpn",
        " plasma-desktop",
        " qpwgraph",
+       " realtime-privileges",
        " rtkit",
        " sddm",
        " strace",
